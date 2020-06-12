@@ -9,7 +9,4 @@
 логин: nikki
 пароль: 123456qa
 
-http://127.0.0.1:8000/p_library/author/create
-http://127.0.0.1:8000/p_library/authors
-http://127.0.0.1:8000/p_library/author/create_many
-http://127.0.0.1:8000/p_library/author_book/create_many
+http://127.0.0.1:8000/p_library/friends
