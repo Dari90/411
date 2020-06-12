@@ -9,4 +9,3 @@
 логин: nikki
 пароль: 123456qa
 
-http://127.0.0.1:8000/p_library/friends
